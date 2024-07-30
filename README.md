@@ -1,2 +1,2 @@
 # git-basic
-Testing pre-commit hooks
+Testing pre-commit hook
